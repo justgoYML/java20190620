@@ -44,7 +44,7 @@
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>4.12</version>
+      <version>4.13.1</version>
       <!--作用域test：表示此包只在测试执行时起作用-->
       <scope>test</scope>
     </dependency>
